@@ -1,7 +1,5 @@
 # SFoxProject
 
-Executable implementations with details comments to explain it - done.
-Written Test Cases - done.
 Bug Reports:
 
 Bug report 1. Registration. Country «Ukraine» is not available in country’s list.
